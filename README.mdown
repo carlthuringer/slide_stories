@@ -1,0 +1,40 @@
+# Tell Stories with Slides
+
+Have you ever used Powerpoint or Keynote to make a presentation? If you
+haven't yet, you probably will someday soon. 
+
+A presentation is simple, words on a blank page, pictures, and
+transitions. Like a deck of cards you show to your audience to help you
+tell a story. The best presentations are fun and easy to understand.
+They combine words and pictures that go with the story you are telling.
+
+## Today's Lesson
+
+HTML is the language of code that lies behind nearly everything you see
+on the Web today. From Facebook to Minecraft to the White House
+homepage, HTML makes the words, pictures, and videos and CSS makes the shape, color, and
+style of the Web. We'll be learning the basics of HTML and CSS, and
+using those tools to write our own stories using a free and open source
+framework called Slides. Brian Cavalier put it 
+
+## Get Started
+
+1. Clone this repository using Github for Windows or Mac, or Download
+   the Zip.
+2. Unzip the file that is downloaded in a folder you use for working on
+   projects.
+3. Double-click the index.html file or open it in a web browser. You'll
+   see the first page of the story
+4. Go back to the folder. There is another folder inside called
+   'slides.' Open that and then open the slides.html file in a text
+editor like Notepad++.
+5. Fill in the blanks, copy slides to make new ones, and experiment!
+
+## Challenges
+
+* Copy some of the slides and make the deck longer.
+* Change the background and text colors by editing the CSS
+* Change a picture
+* Add more pictures to expand the story
+* Did you see that there are two endings? Add another ending by making a
+  new link!
